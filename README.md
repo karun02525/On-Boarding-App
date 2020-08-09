@@ -1,2 +1,2 @@
-# onboarding_app
-<img width="500" src="art/pic.png?raw=true">
+# Onboarding App
+<img width="300"  height="600" src="art/pic.png?raw=true">
